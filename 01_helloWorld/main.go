@@ -1,3 +1,5 @@
+// This is exercise 1
+
 package main
 
 import "fmt"
